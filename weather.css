@@ -1,0 +1,41 @@
+.card{
+
+    box-shadow: 3px,10px,15px,7px,rgb(111, 93, 93);
+    transition: 0.1s;
+    border-collapse: collapse;
+    
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgb(42, 34, 34);
+
+}
+.card-items{
+    box-shadow: 3px,10px,15px,7px,rgb(111, 93, 93);
+    transition: 0.1s;
+    border-collapse: collapse;
+
+}
+.card-items:hover{
+    box-shadow: 0 8px 16px 0 rgb(42, 34, 34);
+
+}
+.card-items-day{
+    box-shadow: 3px,10px,15px,7px,rgb(111, 93, 93);
+    transition: 0.1s;
+    border-collapse: collapse;
+
+}
+.card-items-day:hover{
+    box-shadow: 0 8px 16px 0 rgb(42, 34, 34);   
+}
+.mytable{
+    box-shadow: 9px,10px,15px,10px,rgb(111, 93, 93);
+    transition: 0.1s;
+    border-collapse: collapse;
+
+}
+.mytable:hover{
+    box-shadow: 0 8px 16px 0 rgb(42, 34, 34);
+
+}
